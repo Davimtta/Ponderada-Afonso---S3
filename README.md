@@ -16,7 +16,7 @@ Ps.: Professor, por favor, considere meu esforço a realização desta ponderada
 
 <div align="center">
 <sub>Figura 1 - DMN ES001</sub>
-<img src="../imagens/dmn1.png" width="100%" >
+<img src="./imagens/dmn1.png" width="100%" >
 </div>
 
 
@@ -25,27 +25,27 @@ Ps.: Professor, por favor, considere meu esforço a realização desta ponderada
 
 <div align="center">
 <sub>Figura 2 - DMN ES002</sub>
-<img src="../imagens/dmn2.png" width="100%" >
+<img src="./imagens/dmn2.png" width="100%" >
 </div>
 
 ### DMN - REGRA ES003
 
 <div align="center">
 <sub>Figura 3 - DMN ES003</sub>
-<img src="../imagens/dmn3.png" width="100%" >
+<img src="./imagens/dmn3.png" width="100%" >
 </div>
 
 ### DMN - REGRA ES004
 
 <div align="center">
 <sub>Figura 4 - DMN ES004</sub>
-<img src="../imagens/dmn4.png" width="100%" >
+<img src="./imagens/dmn4.png" width="100%" >
 </div>
 
 ### DMN - REGRA ES005
 
 <div align="center">
 <sub>Figura 5 - DMN ES005</sub>
-<img src="../imagens/dmn5.png" width="100%" >
+<img src="./imagens/dmn5.png" width="100%" >
 </div>
 
